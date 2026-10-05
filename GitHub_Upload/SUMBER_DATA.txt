@@ -1,0 +1,7 @@
+Sumber data: Government Transparency Institute
+Berkas mentah: ID_data_202402_gti.csv (10,79 GB, 187 kolom, 5.453.095 baris)
+Tautan unduhan: https://www.govtransparency.eu/public-procurement-datasets-underpinning-the-project-on-corruption-risks-and-natural-disasters/?utm_source=rss&utm_medium=rss&utm_campaign=public-procurement-datasets-underpinning-the-project-on-corruption-risks-and-natural-disasters
+ 
+Berkas mentah tidak diunggah karena ukurannya. Skrip 01_reduksi.py mengubah
+berkas mentah menjadi tiga berkas di folder ini. Notebook berjalan dari
+ketiga berkas hasil reduksi tersebut.
